@@ -1,4 +1,4 @@
-This repository contains my report, worksheet, and simulation files related to Packaging Fundamentals of Design and Testing.
+This repository contains my report and simulation files related to Packaging Fundamentals of Design and Testing.
 
 # Topics Covered
 - Semiconductor packaging fundamentals
@@ -8,4 +8,4 @@ This repository contains my report, worksheet, and simulation files related to P
 - ANSYS-based simulation exercises
 
 # Purpose
-This repository is created to organize and submit my packaging coursework, reports, and simulation practice files in a clear and professional format.
+This repository is created to organize and submit my packaging coursework, reports and simulation practice files in a clear and professional format.
